@@ -29,7 +29,8 @@
 <h3 align='center'>✍🏻 BLOG</h3>
 <div align='center'>
 
-![Static Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)
+<a href="https://velog.io/@mxkxx1011/posts"> ![Static Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)
+</a>
 </div>
 <br>
 
